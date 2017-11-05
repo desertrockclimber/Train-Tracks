@@ -1,0 +1,26 @@
+.jumbotron {
+margin-top: 20px;
+  background-image: url(http://www.teachmag.com/wp-content/uploads/2012/06/steamtrains.jpg);
+  background-size: cover;
+  font-family: Abril Fatface;
+
+}
+h1 {
+  text-shadow: 2px 2px green;
+
+
+}
+
+h2 {
+  text-shadow: 1px 1px white;
+}
+
+.panel-heading{
+
+  font-size: 20px;
+  font-family: Abril Fatface;
+}
+
+table#tableName tr:nth-child(even) {
+    background-color: #eee;
+}
